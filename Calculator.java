@@ -15,6 +15,9 @@ public class Calculator {
         System.out.print("Enter your second number: ");
         int num2 = scanner.nextInt();
         
+        num1 = 10;
+        num2 = 20;
+        
         // Calculate the sum
         int sum = num1 + num2;
         
