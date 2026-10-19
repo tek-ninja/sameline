@@ -16,7 +16,7 @@ public class Calculator {
         int num2 = scanner.nextInt();
         
         num1 = 10;
-        num2 = 20;
+        num2 = 200;
         
         // Calculate the sum
         int sum = num1 + num2;
