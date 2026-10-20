@@ -15,7 +15,7 @@ public class Calculator {
         System.out.print("Enter your second number: ");
         int num2 = scanner.nextInt();
         
-        num1 = 10;
+        num1 = 10000000;
         num2 = 200;
         
         // Calculate the sum
